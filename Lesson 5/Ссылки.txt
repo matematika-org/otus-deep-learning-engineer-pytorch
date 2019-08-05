@@ -1,0 +1,2 @@
+http://proceedings.mlr.press/v9/glorot10a.html
+https://en.wikipedia.org/wiki/Restricted_Boltzmann_machine
